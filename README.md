@@ -49,5 +49,21 @@ https://docs.github.com/cn/actions/using-workflows/triggering-a-workflow
 * 建议是私有仓库，因为公共仓库存在安全问题，提交的代码可能影响构建机器
 
 
+# Github Project
+
+一个任务看板+跟踪的工具，可以指定任务负责人，多个迭代。
+
+![image](https://user-images.githubusercontent.com/17684996/164970352-bca512de-50d8-4da4-b6cd-d26f2b858b0c.png)
+
+
+![image](https://user-images.githubusercontent.com/17684996/164970206-a43fe571-e299-4eea-b1dc-aba61004af6b.png)
+
+视图可以切换为看板样式
+
+![image](https://user-images.githubusercontent.com/17684996/164970236-0aa08593-c44f-4926-8c3b-55fa2e5820c4.png)
+
+还可以直接关联issue，转PR等。
+
+
 
 
